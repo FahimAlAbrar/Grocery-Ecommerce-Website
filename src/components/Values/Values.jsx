@@ -33,7 +33,7 @@ const Values = () => {
           </span>
         </div>
 
-        <div className="text-right">
+        <div className="text">
           <h3 className="text-zinc-800 text-3xl font-bold">{item.title}</h3>
           <p className="text-zinc-600 mt-2 ">{item.para}</p>
         </div>
